@@ -1,0 +1,45 @@
+\documentclass[a4paper, 12pt]{report}   
+\usepackage{graphicx}  
+\usepackage{ragged2e}  
+\usepackage{xcolor}  
+\begin{document}  
+\thispagestyle{empty}  
+\pagenumbering{roman} 
+\setcounter{page}{1} 
+\begin{center}  
+\textbf{\large Visvesvaraya Technological University} \\ 
+\textbf{\small JnanaSangama BELAGAVI - 590018} \\ 
+\vspace{10mm} 
+\includegraphics[scale=.4]{VTU-Logo-250x250-1.png} \\ 
+\vspace{10mm} 
+\textbf{\small DEPARTMENT OF COMPUTER SCIENCE AND 
+ENGINEERING} \\ 
+\vspace{10mm} 
+\textbf{\large CERTIFICATE} 
+\end{center}  
+\vspace{3mm}  
+\justify  
+This is to certify that studentname bearing USN: 1MP22CS0XX is a bonafide 
+student of Bachelor of Engineering course of the Department of Computer 
+Science and Engineering, BGSCET, Bengaluru, affiliated to Visvesvaraya 
+Technological University, Belagavi. Project report on "Artificial Intelligence" is 
+prepared by him under the guidance of Dr. Ravikumar G K, Principal, in partial 
+fulfillment of the requirements for the award of the degree of Bachelor of 
+Engineering of Visvesvaraya Technological University, Belagavi, Karnataka. 
+\vspace{10mm} 
+\begin{tabbing} 
+............................ \hspace{20mm} \= .............................\hspace{20mm} \= 
+......................... \\ 
+Signature of Guide \> Signature of HoD \> Signature of Principal 
+\end{tabbing} 
+\vspace{9mm}  
+\begin{center}  
+\textbf{\small EXTERNAL EXAMINER} 
+\end{center}  
+\vspace{4mm}  
+Name of Examiners \hspace{60mm} Signature with date  
+\vspace{5mm} 
+1. \\ 
+\vspace{3mm} 
+2.  
+\end{document}
