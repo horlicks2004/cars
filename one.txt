@@ -1,0 +1,31 @@
+\documentclass{article}
+\usepackage{fancyhdr}
+\usepackage{blindtext}
+
+\title{1. Latex script}
+\author{name}
+\date{\today}
+
+\begin{document}
+\maketitle
+\pagestyle{fancy}
+\fancyhf{}
+
+\chead{First latex script}
+
+\rfoot{\thepage}
+\lfoot{BGSCET, Bengaluru}
+
+
+\section{Introduction}
+
+\blindtext
+\blindtext
+
+\section{Survey}
+
+\blindtext
+\blindtext
+\blindtext
+
+\end{document}
