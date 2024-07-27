@@ -1,0 +1,31 @@
+\documentclass[a4paper, 12pt]{report}  
+\usepackage{graphicx}  
+\usepackage{xcolor}  
+\begin{document}  
+\thispagestyle{empty}  
+\begin{center}  
+\textbf{\large Chat bots}  
+\end{center}  
+\vspace{15mm}  
+\begin{center}  
+\begin{small} 
+\textcolor{green}{A Project Report\\ Submitted for the Award of the Degree\\ of\\ 
+Bachelor of Engineering\\ in\\ Computer Science and Engineering\\ by\\ } 
+\vspace{.5cm}  
+\textcolor{blue}{\textbf{Name}\\} IV SEM\\  
+\vspace{.3cm}  
+Under the guidance of\\  
+\vspace{.5cm} 
+\textbf{Dr. Ravikumar G K}\\ Professor, Principal\\  
+BGS College of Engineering and Technology\\  
+\end{small}  
+\vspace{10mm}  
+\centerline{\includegraphics[scale=.4]{VTU-Logo-250x250-1.png}}  
+\vspace{10mm} 
+Department of Computer Science and Engineering\\  
+BGS College of Engineering and Technology,\\ 
+Visvesvaraya Technological University, Belgavi.\\  
+\color{white}jg\color{black}\\  
+April 2024\\  
+\end{center}  
+\end{document}
