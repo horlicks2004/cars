@@ -1,0 +1,28 @@
+\documentclass{article} 
+\usepackage{graphicx} 
+\usepackage{subcaption} 
+\begin{document} 
+\textbf{\huge SIDE BY SIDE IMAGES}\\ 
+\begin{figure}[h] 
+\center 
+\begin{subfigure}[b]{0.3\textwidth} 
+\center 
+\includegraphics[width=\textwidth]{cloud.png} 
+\caption{cloud} 
+\end{subfigure} 
+\hfill 
+\begin{subfigure}[b]{0.3\textwidth} 
+\centering 
+\includegraphics[width=\textwidth]{flower.png} 
+\caption{flower} 
+\end{subfigure} 
+\hfill 
+\begin{subfigure}[b]{0.3\textwidth} 
+\center 
+\includegraphics[width=\textwidth]{f2.png} 
+\caption{mg} 
+\end{subfigure} 
+\caption{Three simple graphs} 
+\label{fig:three graphs} 
+\end{figure} 
+\end{document}
