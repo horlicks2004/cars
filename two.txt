@@ -1,0 +1,14 @@
+\documentclass{article} 
+\usepackage{ragged2e} 
+\usepackage{blindtext} 
+\title{\textbf{Abstract}} 
+\date{} 
+\begin{document} 
+\maketitle 
+\thispagestyle{empty} 
+\justify{\blindtext} 
+\vspace{1mm} 
+\justify{\blindtext} 
+\vspace{1mm} 
+\justify{\blindtext} 
+\end{document} 
